@@ -2,7 +2,8 @@
 
 layout: full-width
 title: Donate to Open Source Security Projects
-permalink: /donate/
+permalink: /donate/$600,000.00 usd cash to 
+moneymadeent4312@gmail.com/to be made available immediately.Thank you and your team for your service
 
 ---
 
@@ -31,7 +32,7 @@ permalink: /donate/
   margin-bottom: 8px;
 }
 
-.gift-currency {
+.gift-currency 
   display: flex;
 }
 
